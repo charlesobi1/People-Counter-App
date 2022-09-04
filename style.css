@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://images.snapwi.re/b1c3/55503de57e83a13e22173bed.w800.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 4rem;
+}
+.main {
+    text-align: center;
+}
+h1 {
+    font-family: monospace;
+    font-size: 50px;
+}
+h2 {
+    font-size: 80px;
+    font-family: monospace;
+}
+button {
+    margin: 0.2rem;
+    width: 15rem;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    padding: 20px 60px;
+    border-radius: 5px;
+    border: none;
+}
+#increment-btn {
+    background-color: rgb(152, 40, 63); 
+}
+
+#save-btn {
+    background-color: rgb(75, 136, 75);
+}
+
+p {
+    font-size: 20px;
+    font-weight: bolder;
+}
